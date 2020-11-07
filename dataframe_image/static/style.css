@@ -5,7 +5,7 @@ table {{
     border-collapse: collapse;
     border-spacing:0;
     color:black;
-    font-size:{fontsize}px;
+    font-size:20px;
     table-layout:fixed;
     grid-column: 1;
     grid-row: 1;
